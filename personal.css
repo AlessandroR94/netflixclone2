@@ -1,0 +1,157 @@
+header img {
+    width: 100px;
+    height: 50px;
+}
+
+body {
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+.navbar { background-color: rgb(27, 27, 27)!important; } 
+
+.navbar .nav-link { color: white !important; }
+
+.kids {color: white !important;}
+
+h2 {
+    color: white !important;
+}
+
+h3 {
+    color: white !important;
+    margin-left: 10px;
+}
+
+.dropdown-toggle {
+    color: white !important;
+    background-color: black !important;
+    border-radius: 0;
+    border-width: 2px;
+    border-color: white !important;
+    margin-left: 40px;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+i {
+    color: white !important;
+}
+
+.small-icon {
+    width: 30px;
+    height: 30px;
+    background-color:  rgb(27, 27, 27)!important;
+}
+
+.dropdown2 {
+    background-color:  rgb(27, 27, 27)!important;
+    border-color: transparent !important;
+    margin-left: 10px;
+}
+
+.icon-top {
+    margin-left: 15px;
+}
+
+.icon-border {
+    border: 1px solid white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.search-input {
+    display: none;
+}
+
+.search-input {
+    display: none;
+    width: 200px;
+    transition: width 0.3s ease;
+    margin-left: 10px;
+    user-select: none;
+}
+
+.search-input-expanded {
+    display: block;
+}
+
+.carousel-control-next {
+    justify-content: flex-end;
+}
+
+.carousel-control-prev {
+    justify-content: flex-start;
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+
+.carousel-item > .row > div {
+    transition: transform 0.4s;
+}
+
+.carousel-item > .row > div:hover {
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+div .col-md-2.col-4 {
+    padding-right: 0px;
+    padding-left: 3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.personal-footer * {
+    color: rgb(146, 146, 146) !important;
+}
+
+.personal-footer i {
+    font-size: 25px;
+}
+
+.service {
+    border-radius: 0;
+    border-color: rgb(146, 146, 146);
+    margin-bottom: 25px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.tomove {
+    margin-top: 55px;
+}
+
+.img-container {
+    overflow: hidden;
+    padding-bottom: 15px;
+}
+
+.row {
+    opacity: 1;
+    transition: opacity 1s ease-out;
+}
+
+.row.invisible {
+    opacity: 0;
+}
+
+.row.visible {
+    opacity: 1;
+}
